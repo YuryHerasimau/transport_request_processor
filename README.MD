@@ -22,7 +22,7 @@ git clone https://github.com/YuryHerasimau/transport_request_processor.git
 ```
 2. Install the required dependencies:
 ```
-python -m pip install -r ./requirements.txt
+pip install -r requirements.txt
 ```
 3. Сreate a `.env` file in the root directory and pass your API key: `OPENAI_API_KEY=<OPENAI_API_KEY>` 
 
