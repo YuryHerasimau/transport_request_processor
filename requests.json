@@ -1,0 +1,62 @@
+[
+    {
+        "document_number": "1200151",
+        "order_date": "29.08.2020",
+        "client_name": "MST-Instrumente GmbH",
+        "address": "In Breiten 13, D-78589 Durbheim, Germany",
+        "phone": "07424 - 90 59 21",
+        "email": "",
+        "transport_type": "DPD Standard",
+        "delivery_date": "Derzeit ab Lager lieferbar, Zwischenverkauf vorbehalten",
+        "packing": "Verpackung 2,75",
+        "notes": "Zahlung : 8 Tage ab Rechnungsdatum, ohne Abzug.\n-Preis gilt nur bei geschloBener Abnahme innerhalb der angegebenen Position\n-Bei einer geringeren Mengenabnahme behalten wir uns eine Preisanpassung vor\n-Angebotsgiitigkeit 6 Wochen"
+    },
+    {
+        "document_number": "PI.No.: 12092018",
+        "order_date": "Offer holds valid until Oct. 30 2018",
+        "client_name": "TheseusLabs.r.o.",
+        "address": "Merhoutovastr.1401/2, Praha 4, Kunratice, 14800 Prague, Czech Republic",
+        "phone": "+420737352861",
+        "email": "",
+        "transport_type": "ShipVia",
+        "delivery_date": "In 30 working days",
+        "packing": "Plywood Case",
+        "notes": "Price Terms: EXW\nPayment Terms: 30 Days after getting payment by TT."
+    },
+    {
+        "document_number": "8365234",
+        "order_date": "03.01.2022",
+        "client_name": "TITAN Baltija SIA",
+        "address": "Sliežu iela 1, Ziemeļu rajons, LV-1005 Riga, Latvija",
+        "phone": "+375 44 5909001, +37166555018",
+        "email": "titanbaltija@gmail.com",
+        "transport_type": "Ex Works (EXW)",
+        "delivery_date": "12-14 weeks",
+        "packing": "Cardboard",
+        "notes": "Total Price payments in EUR as 50% Prepayment after PO confirmation and 50% 3 days prior to shipment. Quality guarantee for furnace function and spare parts for 12 months. Spare parts list provided on request."
+    },
+    {
+        "document_number": "PROFORMA INVOICE",
+        "order_date": "11-Sep-2018",
+        "client_name": "Theseus Lab s.r.o.",
+        "address": "Pobřežní 249/46, Praha 8, 18600, Prague, Czech Republic",
+        "phone": "+420737352861",
+        "email": "SammyQin@outlook.com",
+        "transpot_type": "N/A",
+        "delivery_date": "Within 15 working days after receiving the deposit",
+        "packing": "N/A",
+        "notes": "1. Price does not include bank fee.\n2. Payment terms: By T/T: 100% in advance or 50% down payment and 50% before delivery."
+    },
+    {
+        "document_number": "RU-1547-04",
+        "order_date": "01.04.2020",
+        "client_name": "Saxassine",
+        "address": "000 Mea xownnexrauna, PO, 201002, ropon",
+        "phone": "+7 495 555 5 55, +7 600 77777 77",
+        "email": "sergey@medcomsu, vangtrakte.su",
+        "transpot_type": "Tanabe oT Teron none",
+        "delivery_date": "Wanpena 2020 roma ¢ 640 no 1-60, [anpenn 020 roma «8-00",
+        "packing": "Vinibopnaunn o rpyse",
+        "notes": "Transport type: Tanabe oT Teron none\nImportant info: [Sonsaenn ravorepsTepan c orywnoue eee a pannerox 2OKTED 12 aye"
+    }
+]
